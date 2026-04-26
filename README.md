@@ -1,2 +1,2 @@
 # students_depression_project
-Machine Learning project analyzing student depression factors using data-driven techniques to identify patterns and predict depression risk based on academic, social, and lifestyle indicators.
+This Machine Learning project focuses on analyzing student depression using a dataset that includes academic performance, lifestyle habits, and social factors. The goal is to identify key patterns and build predictive models to detect potential depression risks among students. The project involves data preprocessing, exploratory data analysis, and model building using Python.
